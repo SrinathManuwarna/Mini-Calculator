@@ -1,0 +1,1 @@
+I recently developed a mini calculator using HTML, CSS, and JavaScript to strengthen my front-end development skills. This project showcases my ability to create interactive user interfaces and handle basic functionality using JavaScript. Check out the project here!
